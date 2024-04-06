@@ -5,7 +5,7 @@
 <h3 align="center">CS student and a passionate web developer</h3> -->
 
 <!--   my-ticker -->    
-<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ADFF2F&center=true&vCenter=true&width=600&lines=Computer+science+student;CTF+PLAYER+;Reverse+engineer+;learning+Digital+forensics")](https://git.io/typing-svg) -->
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ADFF2F&center=true&vCenter=true&width=600&lines=𝐅𝟒𝐊𝟑-𝐑𝐨𝐨𝐓;𝐖𝐡𝐞𝐫𝐞+𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐬+𝐮𝐧𝐢𝐭𝐞+𝐢𝐧+𝐨𝐧𝐞 +𝐂𝐓𝐅+𝐭𝐞𝐚𝐦;one+mission:+sharing+the+mysteries+of+cybersecurity")](https://git.io/typing-svg) -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
